@@ -33,6 +33,7 @@ IOKitUnpatched=(
   7359b413a4dca7a189b80da750ce43dd '10.11.1' 6
   # a7afb2dd9df1e4c48f12b4b52f7da212 '10.11.2' 6
   # 3cec8ae287ee52a3622082bfc049bb86 '10.11.3' 6
+  a73dd1ed37da96000958bb781ce4ac15 '10.11.5' 6
 )
 
 # md5 checksums of patched IOKit files
@@ -44,6 +45,7 @@ IOKitPatched=(
   de3ad8279077c675ae8093193deb253f '10.8.5'
   0962001659a2031c2425206d9239bda4 '10.9.1'
   45d8fc0e1210f0672297a7716478990e '10.9.2'
+  3d8b3d1bf19e19ff41dd09be975fefa2 '10.11.5'
 )
 
 # md5 checksum of '(__DATA,__data)' section exported by otool from unpatched IOKits
